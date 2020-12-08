@@ -46,7 +46,7 @@ STEP 5:
 STEP 6:
   This click handler needs to use 'setCount' to set the 'count' to be zero again.
 */
-import ReactDOM from "react-dom";
+
 import React, { useState } from 'react'; 
 /* STEP 0 */
 
